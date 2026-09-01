@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1029 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-765.970181,-663.452446)">
+        <g transform="matrix(0.701396,0,0,0.701396,437.873347,240.587943)">
+            <g transform="matrix(216.143121,0,0,216.143121,1882.618305,761.538462)">
+            </g>
+            <text x="580.14px" y="761.538px" style="font-family:'HarvestItal';font-weight:5;font-size:216.143px;fill:white;">AER<tspan x="932.885px 1053.061px " y="761.538px 761.538px ">OC</tspan>REA<tspan x="1504.152px 1601.416px " y="761.538px 761.538px ">TI</tspan>VE</text>
+        </g>
+        <g transform="matrix(1.108225,0,0,1,207.027094,-0)">
+            <path d="M590.207,663.452L615.873,663.452L564.54,776.548L538.873,776.548L590.207,663.452Z" style="fill:rgb(129,130,133);"/>
+        </g>
+        <g transform="matrix(1.108225,0,0,1,168.777094,-0)">
+            <path d="M590.207,663.452L615.873,663.452L564.54,776.548L538.873,776.548L590.207,663.452Z" style="fill:rgb(241,89,42);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,268.512302,-0)">
+            <path d="M1525.518,752.167L1504.018,752.167L1497.018,776.548L1518.518,776.548" style="fill:rgb(241,89,42);"/>
+        </g>
+    </g>
+</svg>
